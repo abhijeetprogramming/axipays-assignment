@@ -96,7 +96,7 @@ npm run dev
 # Deployment
 
 Live Project:
-https://axipays-assignment-phi.vercel.app/
+https://axipays-assignment-phi.vercel.app
 
 ---
 
