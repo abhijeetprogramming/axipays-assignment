@@ -96,13 +96,13 @@ npm run dev
 # Deployment
 
 Live Project:
-(Add Your Vercel Link Here)
+https://axipays-assignment-phi.vercel.app/
 
 ---
 
 # GitHub Repository
 
-(Add Your GitHub Repo Link Here)
+https://github.com/abhijeetprogramming/axipays-assignment
 
 ---
 
